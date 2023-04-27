@@ -1,0 +1,16 @@
+.header-bg{
+  
+  background: rgb(34,195,151);
+  background: linear-gradient(0deg, rgba(34,195,151,1) 0%, rgba(168,255,155,1) 100%);
+
+
+}
+
+.search-bg{
+  background: linear-gradient(135deg, #46e348 0%, #46e348 5%,transparent 5%, transparent 10%, #46e348 10%, #46e348 15%,transparent 15%,transparent 20%, #46e348 20%, #46e348 25%,transparent 25%,transparent 30%, #46e348 30%, #46e348 35%,transparent 35%,transparent 40%, #46e348 40%, #46e348 45%,transparent 45%,transparent 50%, #46e348 50%, #46e348 55%,transparent 55%,transparent 60%, #46e348 60%, #46e348 65%,transparent 65%,transparent 70%, #46e348 70%, #46e348 75%,transparent 70%,transparent 80%, #46e348 80%, #46e348 85%,transparent 85%,transparent 90%, #46e348 90%, #46e348 95%,transparent 95%);
+        background-size: 1em 1em;
+        background-color: #ffffff;
+        opacity: 1;
+       
+      
+}
